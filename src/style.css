@@ -1,50 +1,58 @@
-*{
-    list-style: none;
+* {
+  list-style: none;
 }
 
 .hello {
   color: red;
 }
-.leaderboar-table{
-    width:300px;
-   display:flex;
-   flex-direction: column;
-   margin:20px;
+
+.leaderboar-table {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
 }
-.scores{
-    display:flex;
-    flex-direction:column;
-    justify-content:start;
-    align-items: start;
-    border: 3px solid gray;
+
+.scores {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  border: 3px solid gray;
 }
-ul{
-    padding:10px;
-    margin:0px;
+
+ul {
+  padding: 10px;
+  margin: 0;
 }
-.container{
-    display:flex;
-    justify-content: center;
-    align-items:center;
-    margin-left:auto;
-    margin-right:auto;
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-.top-container{
-    display:flex;
-    flex-direction:column;
-    justify-content: center;
-    align-items:center;
+
+.top-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.form-submit{
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
+
+.form-submit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
-.form-submit input{
-margin:5px;
-padding:5px 10px;
-width: 300px;
+
+.form-submit input {
+  margin: 5px;
+  padding: 5px 10px;
+  width: 300px;
 }
-.form-submit button{
-   margin-right: auto;
+
+.form-submit button {
+  margin-right: auto;
 }
